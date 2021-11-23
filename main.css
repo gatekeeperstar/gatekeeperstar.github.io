@@ -1,3 +1,9 @@
+h1{
+    font-size:50px;
+    font-family: "微軟正黑體";
+    color:darkblue;
+}
+
 h2{
     font-size:26px;
     font-family: "微軟正黑體";
@@ -8,4 +14,9 @@ h3{
     font-size:20px;
     font-family: "微軟正黑體";
     color: black;
+}
+center{
+    margin: 0;
+    position: relative;
+    left: 0%;
 }
