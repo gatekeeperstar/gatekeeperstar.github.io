@@ -41,5 +41,13 @@ table{
 }
 
 .answer {
-  list-style-image: url("./img/answer.png");
+    margin: 0;
+	padding: 10px 0px;
+	list-style: none;
+	background-image: url("./img/answer.png");
+	background-repeat: no-repeat;	
+	background-size: 40px;    
+    font-size:26px;
+    font-family: "微軟正黑體";
+    color:brown;
 }
