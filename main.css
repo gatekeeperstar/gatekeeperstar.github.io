@@ -1,3 +1,9 @@
+h1{
+    font-size:50px;
+    font-family: "微軟正黑體";
+    color:darkblue;
+}
+
 h2{
     font-size:26px;
     font-family: "微軟正黑體";
@@ -5,7 +11,35 @@ h2{
 }
 
 h3{
+    margin: 0;
+	padding: 10px 50px;
     font-size:20px;
     font-family: "微軟正黑體";
     color: black;
+}
+center{
+    margin: 0;
+    position: relative;
+    left: 0%;
+}
+
+table{
+    margin: 0;
+	padding: 10px 50px;
+}
+
+.question {
+    margin: 0;
+	padding: 10px 50px;
+	list-style: none;
+	background-image: url("./img/q2.png");
+	background-repeat: no-repeat;	
+	background-size: 40px;    
+    font-size:26px;
+    font-family: "微軟正黑體";
+    color:brown;
+}
+
+.answer {
+  list-style-image: url("./img/answer.png");
 }
